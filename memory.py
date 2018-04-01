@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Nov  1 19:39:27 2017
-
-@author: nehatambe
 """
 
 import pickle
